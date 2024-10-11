@@ -1,0 +1,70 @@
+
+h1 {
+    color: #2E86C1; 
+    font-weight: bold;
+    text-align: center;
+}
+
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 60%; 
+}
+
+
+caption {
+    color: #65c150;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+
+th {
+    background-color: #AED6F1;
+    font-weight: bold;
+    text-align: center;
+    width: 100px;
+}
+
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
+
+
+.classe1 {
+    background-color: #2E86C1;
+}
+
+.classe2 {
+    background-color: #65c150;
+}
+
+.classe3 {
+    background-color: #A9DFBF;
+}
+
+.classe4 {
+    background-color: #AED6F1;
+}
+
+.classe5 {
+    background-color: #F9E79F;
+}
+
+.classe6 {
+    background-color: aqua;
+}
+
+.classe7 {
+    background-color: aquamarine;
+}
+
+.classe8 {
+    background-color: chartreuse;
+}
+
