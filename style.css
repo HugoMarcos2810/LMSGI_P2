@@ -9,7 +9,8 @@ h1 {
 table {
     margin: auto;
     border-collapse: collapse;
-    width: 60%; 
+    width: 100%; 
+    font-family: Verdana;
 }
 
 
@@ -31,7 +32,7 @@ th {
 td {
     border: 1px solid black;
     text-align: center;
-    padding: 8px;
+    padding: 10px;
 }
 
 
@@ -68,3 +69,23 @@ td {
     background-color: chartreuse;
 }
 
+.classe9 {
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.hores {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+
+.taula {
+    text-align: center;
+}
+
+.capçalera {
+    font-size: 25px;
+    padding: 30px;
+}
